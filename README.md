@@ -21,7 +21,9 @@ On the Circuit Playground Bluefruit (CPB)
 1. Make sure the CPB is running the newest version of Circuit Python: https://circuitpython.org/board/circuitplayground_bluefruit/
 2. Also make sure that the CPB has a lib folder with the recommended lib files: https://learn.adafruit.com/adafruit-circuit-playground-bluefruit/circuit-playground-bluefruit-circuitpython-libraries
 3. Download the code.py file and place it into the CPB's root folder
+4. Open the Mu code editor and load the code.py file from the CPB. Click the serial monitor button to open the serial monitor
 
 For the App
 1. Download this project and click on the Check-in-App.xcodeproj
 2. Select your iOS device's scheme in Xcode
+3. Click 'Run' to simulate the app on your device
